@@ -1,5 +1,5 @@
 array = []
 def find_min_value(array)
   # Add your solution here
-return [].min
+return array.min
 end
